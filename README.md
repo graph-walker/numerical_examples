@@ -1,2 +1,2 @@
 # numerical_examples
-Doing some computational physics for fun.
+Doing some computational physics related problems for fun.
